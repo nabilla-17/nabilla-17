@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Hey there, I'm Nabill Abeid!
 
-<!--
-**nabilla-17/nabilla-17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub space!
+I am a **driven DevOps & Cloud Engineer** focused on designing reliable, automated, and highly scalable infrastructure.  
 
-Here are some ideas to get you started:
+💡 My mission is simple: **turn complex infrastructure into smooth, automated pipelines that deliver results**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+- 🌍 Based in: **[London,England]**
+- 🛠 Always tinkering with: **Terraform, Docker, Kubernetes, Jenkins**
+- 💼 Passionate about: **DevOps, AWS, Cloud Automation, CI/CD, Docker, Kubernates**
+- 📚 Currently learning: **scripting with bash**
+- 🎯 Goal for 2026: **Develop multi-cloud proficiency and actively support open-source initiatives**
+ 
+---
+
+## 🛠 Tech Stack & Tools
+**Languages & Scripting**
+- Python, Bash, YAML, HCL
+
+- **Cloud & Infrastructure**
+- AWS, Azure, Terraform, Ansible
+
+**Containers & Orchestration**
+- Docker, Kubernetes, ECS, EK
+
+**CI/CD & Automation**
+- Jenkins, GitHub Actions, GitLab CI, ArgoCD
+
+**Monitoring & Logging**
+- Prometheus, Grafana, CloudWatch
+
+---
+
