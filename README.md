@@ -34,3 +34,6 @@ I am a **driven DevOps & Cloud Engineer** focused on designing reliable, automat
 
 ---
 
+## 📫 Let’s Connect
+- 💼 [LinkedIn]:[Click for profile](https://www.linkedin.com/in/nabill-abeid-160ab3351/)
+- 📧 Email: **nabill38@outlook.com**
